@@ -6,6 +6,6 @@ How to run locally: Clone repo, pip install -r requirements.txt, create .env wit
 
 Version: 1.0 
 
-Planned updates and features: Weather forcast foor days in that city, Budgeting, Ui design, ect.
+Planned updates and features: Weather forcast for selected days in that city, Budgeting, Ui design, ect.
 
 <img width="876" height="950" alt="image" src="https://github.com/user-attachments/assets/856f7710-d1a2-4612-936a-18042c33e900" />
