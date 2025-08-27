@@ -1,6 +1,6 @@
-Project title: Travel Guide Agent
+Project title: Travel Guide Agent.
 
-Purpose: Gives activities in a set location for a set number of days which can be tailored to a person's specific preferences
+Purpose: Gives activities in a set location for a set number of days which can be tailored to a person's specific preferences.
 
 How to run locally: Clone repo, pip install -r requirements.txt, create .env with your OPENAI_API_KEY.
 
